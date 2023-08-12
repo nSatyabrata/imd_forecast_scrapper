@@ -1,0 +1,130 @@
+[
+    {
+        "weather":"Generally cloudy sky with one or two spells of rain or thundershowers",
+        "image":"img\/14.gif"
+    },
+    {
+        "weather":"Generally cloudy sky with a few spells of rain or thundershowers",
+        "image":"img\/15.gif"
+    },
+    {
+        "weather":"Generally cloudy sky with possibility of rain or Thunderstorm",
+        "image":"img\/8.gif"
+    },
+    {
+        "weather":"Generally cloudy sky with Light rain",
+        "image":"img\/13.gif"
+    },
+    {
+        "weather":"Rain",
+        "image":"img\/13.gif"
+    },
+    {
+        "weather":"Partly cloudy sky with one or two spells of rain or thundershowers",
+        "image":"img\/13.gif"
+    },
+    {
+        "weather":"Rain or Thundershowers",
+        "image":"img\/11.gif"
+    },
+    {
+        "weather":"Partly cloudy sky becoming generally cloudy towards afternoon or evening or night",
+        "image":"img\/4.gif"
+    },
+    {
+        "weather":"Partly cloudy sky with possibility of rain or Thunderstorm or Duststorm",
+        "image":"img\/8.gif"
+    },
+    {
+        "weather":"Partly cloudy sky with possibility of rain or Thunderstorm",
+        "image":"img\/8.gif"
+    },
+    {
+        "weather":"Partly cloudy Sky with possibility of light rain or Thunderstorm",
+        "image":"img\/8.gif"
+    },
+    {
+        "weather":"Partly cloudy Sky with possibility of Moderate rain or Thunderstorm",
+        "image":"img\/12.gif"
+    },
+    {
+        "weather":"Sunny Day",
+        "image":"img\/1.gif"
+    },
+    {
+        "weather":"Generally cloudy sky",
+        "image":"img\/4.gif"
+    },
+    {
+        "weather":"Generally cloudy sky with Light Rain or Drizzle",
+        "image":"img\/13.gif"
+    },
+    {
+        "weather":"Thunderstorm with rain",
+        "image":"img\/11.gif"
+    },
+    {
+        "weather":"Partly cloudy sky",
+        "image":"img\/3.gif"
+    },
+    {
+        "weather":"Mainly clear sky becoming partly cloudy towards afternoon or evening",
+        "image":"img\/3.gif"
+    },
+    {
+        "weather":"Mainly Clear sky",
+        "image":"img\/2.gif"
+    },
+    {
+        "weather":"Generally cloudy sky with possibility of rain or Thunderstorm or Duststorm",
+        "image":"img\/9.gif"
+    },
+    {
+        "weather":"Partly cloudy sky in the morning hours becoming generally cloudy sky towards evening or night with possibility of rain or thundershowers accompanied with squall",
+        "image":"img\/12.gif"
+    },
+    {
+        "weather":"Partly cloudy sky towards afternoon or evening",
+        "image":"img\/3.gif"
+    },
+    {
+        "weather":"Partly cloudy sky with possibility of moderate rain or Thunderstorm",
+        "image":"img\/14.gif"
+    },
+    {
+        "weather":"Generally cloudy sky with moderate rain",
+        "image":"img\/14.gif"
+    },
+    {
+        "weather":"Partly cloudy sky with possibility of development of thunder lightning",
+        "image":"img\/6.gif"
+    },
+    {
+        "weather":"Overcast sky",
+        "image":"img\/5.gif"
+    },
+    {
+        "weather":"NA",
+        "image":"img\/0.gif"
+    },
+    {
+        "weather":"Partly cloudy sky with haze",
+        "image":"img\/3.gif"
+    },
+    {
+        "weather":"Partly cloudy sky with Thundery development",
+        "image":"img\/6.gif"
+    },
+    {
+        "weather":"Rain or thundershowers would occur towards afternoon or evening",
+        "image":"img\/13.gif"
+    },
+    {
+        "weather":"Generally cloudy sky with Heavy rain",
+        "image":"img\/15.gif"
+    },
+    {
+        "weather":"Partly cloudy Sky with possibility of Heavy rain or Thunderstorm",
+        "image":"img\/15.gif"
+    }
+]
